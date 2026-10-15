@@ -559,14 +559,14 @@
 <rect x="246" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="246" y="106" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="246" y="120" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="246" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="260" y="50" width="10" height="10" rx="2" ry="2" class="empty"/>
+<rect x="246" y="134" width="10" height="10" rx="2" ry="2" class="lvl1"/>
+<rect x="260" y="50" width="10" height="10" rx="2" ry="2" class="lvl1"/>
 <rect x="260" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="260" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="260" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="260" y="106" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="260" y="120" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="260" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
+<rect x="260" y="134" width="10" height="10" rx="2" ry="2" class="lvl1"/>
 <rect x="274" y="50" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="274" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="274" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
@@ -612,7 +612,7 @@
 <rect x="358" y="50" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="358" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="358" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="358" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
+<rect x="358" y="92" width="10" height="10" rx="2" ry="2" class="lvl2"/>
 <rect x="358" y="106" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="358" y="120" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="358" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
@@ -641,7 +641,7 @@
 <rect x="414" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="414" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="414" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="414" y="106" width="10" height="10" rx="2" ry="2" class="empty"/>
+<rect x="414" y="106" width="10" height="10" rx="2" ry="2" class="lvl2"/>
 <rect x="414" y="120" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="414" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="428" y="50" width="10" height="10" rx="2" ry="2" class="empty"/>
@@ -686,7 +686,7 @@
 <rect x="498" y="106" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="498" y="120" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="498" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="512" y="50" width="10" height="10" rx="2" ry="2" class="empty"/>
+<rect x="512" y="50" width="10" height="10" rx="2" ry="2" class="lvl2"/>
 <rect x="512" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="512" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="512" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
@@ -772,7 +772,7 @@
 <rect x="666" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="680" y="50" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="680" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="680" y="78" width="10" height="10" rx="2" ry="2" class="lvl2"/>
+<rect x="680" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="680" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="680" y="106" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="680" y="120" width="10" height="10" rx="2" ry="2" class="empty"/>
@@ -790,8 +790,8 @@
 <rect x="708" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="708" y="106" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="708" y="120" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="708" y="134" width="10" height="10" rx="2" ry="2" class="lvl4"/>
-<rect x="722" y="50" width="10" height="10" rx="2" ry="2" class="lvl4"/>
+<rect x="708" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
+<rect x="722" y="50" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="722" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="722" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="722" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
@@ -807,7 +807,7 @@
 <rect x="736" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="750" y="50" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="750" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="750" y="78" width="10" height="10" rx="2" ry="2" class="lvl4"/>
+<rect x="750" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="750" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="750" y="106" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="750" y="120" width="10" height="10" rx="2" ry="2" class="empty"/>
@@ -823,119 +823,145 @@
 <rect x="778" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="778" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="778" y="92" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="778" y="106" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="778" y="120" width="10" height="10" rx="2" ry="2" class="empty"/>
-<rect x="778" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
+<rect x="778" y="106" width="10" height="10" rx="2" ry="2" class="lvl4"/>
 <!-- Goomba #1 at x=218 -->
 <g transform="translate(218,136.0)">
   <use href="#spr_goomba">
     <animateTransform attributeName="transform" type="translate" values="0,0; -2,0; 0,0; 2,0; 0,0" dur="0.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1; 1; 1; 0; 0; 1" keyTimes="0; 0.1447; 0.1487; 0.1647; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1; 1; 1; 0; 0; 1" keyTimes="0; 0.1351; 0.1391; 0.1551; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <!-- Goomba #2 at x=554 -->
 <g transform="translate(554,136.0)">
   <use href="#spr_goomba">
     <animateTransform attributeName="transform" type="translate" values="0,0; -2,0; 0,0; 2,0; 0,0" dur="0.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1; 1; 1; 0; 0; 1" keyTimes="0; 0.3577; 0.3617; 0.3777; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1; 1; 1; 0; 0; 1" keyTimes="0; 0.6670; 0.6710; 0.6870; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <!-- Question Block #1 at x=139 -->
 <g transform="translate(139,104.0)">
   <use href="#spr_question">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.0922; 0.1002; 0.1082; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.0861; 0.0941; 0.1021; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
-<!-- Question Block #2 at x=307 -->
+<!-- Question Block #2 at x=251 -->
+<g transform="translate(251,112)">
+  <use href="#spr_question">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.1640; 0.1720; 0.1800; 1" dur="28.0s" repeatCount="indefinite"/>
+  </use>
+</g>
+<!-- Question Block #3 at x=307 -->
 <g transform="translate(307,104.0)">
   <use href="#spr_question">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.2088; 0.2168; 0.2248; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.3104; 0.3184; 0.3264; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
-<!-- Question Block #3 at x=475 -->
+<!-- Question Block #4 at x=363 -->
+<g transform="translate(363,70)">
+  <use href="#spr_question">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.3616; 0.3696; 0.3776; 1" dur="28.0s" repeatCount="indefinite"/>
+  </use>
+</g>
+<!-- Question Block #5 at x=419 -->
+<g transform="translate(419,84)">
+  <use href="#spr_question">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.4457; 0.4537; 0.4617; 1" dur="28.0s" repeatCount="indefinite"/>
+  </use>
+</g>
+<!-- Question Block #6 at x=475 -->
 <g transform="translate(475,104.0)">
   <use href="#spr_question">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.3052; 0.3132; 0.3212; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.5132; 0.5212; 0.5292; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
-<!-- Question Block #4 at x=615 -->
+<!-- Question Block #7 at x=517 -->
+<g transform="translate(517,28)">
+  <use href="#spr_question">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.5782; 0.5862; 0.5942; 1" dur="28.0s" repeatCount="indefinite"/>
+  </use>
+</g>
+<!-- Question Block #8 at x=615 -->
 <g transform="translate(615,104.0)">
   <use href="#spr_question">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.4070; 0.4150; 0.4230; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.7130; 0.7210; 0.7290; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
-<!-- Question Block #5 at x=685 -->
-<g transform="translate(685,56)">
+<!-- Question Block #9 at x=783 -->
+<g transform="translate(783,84)">
   <use href="#spr_question">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.4767; 0.4847; 0.4927; 1" dur="28.0s" repeatCount="indefinite"/>
-  </use>
-</g>
-<!-- Question Block #6 at x=713 -->
-<g transform="translate(713,112)">
-  <use href="#spr_question">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.5454; 0.5534; 0.5614; 1" dur="28.0s" repeatCount="indefinite"/>
-  </use>
-</g>
-<!-- Question Block #7 at x=755 -->
-<g transform="translate(755,56)">
-  <use href="#spr_question">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.7199; 0.7279; 0.7359; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-4; 0,0; 0,0" keyTimes="0; 0.8126; 0.8206; 0.8286; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <!-- Coin #1 -->
 <g>
-  <animateTransform attributeName="transform" type="translate" values="140,100.0; 140,100.0; 140,78.0; 140,78.0; 140,100.0" keyTimes="0; 0.0922; 0.1142; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="140,100.0; 140,100.0; 140,78.0; 140,78.0; 140,100.0" keyTimes="0; 0.0861; 0.1081; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   <use href="#spr_coin">
-    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.0922; 0.0952; 0.1102; 0.1142; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.0922; 0.1032; 0.1142; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.0861; 0.0891; 0.1041; 0.1081; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.0861; 0.0971; 0.1081; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <!-- Coin #2 -->
 <g>
-  <animateTransform attributeName="transform" type="translate" values="308,100.0; 308,100.0; 308,78.0; 308,78.0; 308,100.0" keyTimes="0; 0.2088; 0.2308; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="252,108; 252,108; 252,86; 252,86; 252,108" keyTimes="0; 0.1640; 0.1860; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   <use href="#spr_coin">
-    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.2088; 0.2118; 0.2268; 0.2308; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.2088; 0.2198; 0.2308; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.1640; 0.1670; 0.1820; 0.1860; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.1640; 0.1750; 0.1860; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <!-- Coin #3 -->
 <g>
-  <animateTransform attributeName="transform" type="translate" values="476,100.0; 476,100.0; 476,78.0; 476,78.0; 476,100.0" keyTimes="0; 0.3052; 0.3272; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="308,100.0; 308,100.0; 308,78.0; 308,78.0; 308,100.0" keyTimes="0; 0.3104; 0.3324; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   <use href="#spr_coin">
-    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.3052; 0.3082; 0.3232; 0.3272; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.3052; 0.3162; 0.3272; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.3104; 0.3134; 0.3284; 0.3324; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.3104; 0.3214; 0.3324; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <!-- Coin #4 -->
 <g>
-  <animateTransform attributeName="transform" type="translate" values="616,100.0; 616,100.0; 616,78.0; 616,78.0; 616,100.0" keyTimes="0; 0.4070; 0.4290; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="364,66; 364,66; 364,44; 364,44; 364,66" keyTimes="0; 0.3616; 0.3836; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   <use href="#spr_coin">
-    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.4070; 0.4100; 0.4250; 0.4290; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.4070; 0.4180; 0.4290; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.3616; 0.3646; 0.3796; 0.3836; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.3616; 0.3726; 0.3836; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <!-- Coin #5 -->
 <g>
-  <animateTransform attributeName="transform" type="translate" values="686,52; 686,52; 686,30; 686,30; 686,52" keyTimes="0; 0.4767; 0.4987; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="420,80; 420,80; 420,58; 420,58; 420,80" keyTimes="0; 0.4457; 0.4677; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   <use href="#spr_coin">
-    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.4767; 0.4797; 0.4947; 0.4987; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.4767; 0.4877; 0.4987; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.4457; 0.4487; 0.4637; 0.4677; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.4457; 0.4567; 0.4677; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <!-- Coin #6 -->
 <g>
-  <animateTransform attributeName="transform" type="translate" values="714,108; 714,108; 714,86; 714,86; 714,108" keyTimes="0; 0.5454; 0.5674; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="476,100.0; 476,100.0; 476,78.0; 476,78.0; 476,100.0" keyTimes="0; 0.5132; 0.5352; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   <use href="#spr_coin">
-    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.5454; 0.5484; 0.5634; 0.5674; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.5454; 0.5564; 0.5674; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.5132; 0.5162; 0.5312; 0.5352; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.5132; 0.5242; 0.5352; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <!-- Coin #7 -->
 <g>
-  <animateTransform attributeName="transform" type="translate" values="756,52; 756,52; 756,30; 756,30; 756,52" keyTimes="0; 0.7199; 0.7419; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="518,24; 518,24; 518,2; 518,2; 518,24" keyTimes="0; 0.5782; 0.6002; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   <use href="#spr_coin">
-    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.7199; 0.7229; 0.7379; 0.7419; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.7199; 0.7309; 0.7419; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.5782; 0.5812; 0.5962; 0.6002; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.5782; 0.5892; 0.6002; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  </use>
+</g>
+<!-- Coin #8 -->
+<g>
+  <animateTransform attributeName="transform" type="translate" values="616,100.0; 616,100.0; 616,78.0; 616,78.0; 616,100.0" keyTimes="0; 0.7130; 0.7350; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <use href="#spr_coin">
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.7130; 0.7160; 0.7310; 0.7350; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.7130; 0.7240; 0.7350; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  </use>
+</g>
+<!-- Coin #9 -->
+<g>
+  <animateTransform attributeName="transform" type="translate" values="784,80; 784,80; 784,58; 784,58; 784,80" keyTimes="0; 0.8126; 0.8346; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <use href="#spr_coin">
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.8126; 0.8156; 0.8306; 0.8346; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1,1; 1,1; 0.1,1; 1,1; 1,1; 1,1" keyTimes="0; 0.8126; 0.8236; 0.8346; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   </use>
 </g>
 <g transform="translate(60,6)">
@@ -983,7 +1009,7 @@
 <rect x="812" y="35" width="3" height="113" fill="#e0e0e0" stroke="#888" stroke-width="0.5"/>
 <circle cx="813.5" cy="35" r="5" fill="#f8d820" stroke="#a06000"/>
 <g id="flag">
-  <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,95; 0,95; 0,0" keyTimes="0; 0.8354; 0.8704; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,95; 0,95; 0,0" keyTimes="0; 0.8410; 0.8760; 0.9800; 1" dur="28.0s" repeatCount="indefinite"/>
   <polygon points="794,38 812,38 812,53" fill="#00a800" stroke="#004400" stroke-width="0.5"/>
 </g>
 <rect x="857" y="103" width="60" height="45" fill="#c84c0c" stroke="#000" stroke-width="0.8"/>
@@ -1003,17 +1029,17 @@
 </g>
 <text x="752" y="27" font-family="monospace" font-weight="bold" font-size="14" fill="#f8d820" stroke="#000" stroke-width="1.2" opacity="0">
   LEVEL CLEAR!
-  <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8784; 0.8934; 0.9750; 0.9950; 1" dur="28.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8840; 0.8990; 0.9750; 0.9950; 1" dur="28.0s" repeatCount="indefinite"/>
 </text>
-<path id="mp" d="M 20.0 98.0 Q 27.5 68.0 35.0 82.0 Q 42.5 68.0 50.0 130.0 L 64.0 130.0 L 78.0 130.0 L 92.0 130.0 L 106.0 130.0 L 120.0 130.0 L 130.0 130.0 Q 132.0 105.0 134.0 119.0 Q 137.0 105.0 140.0 130.0 L 148.0 130.0 L 162.0 130.0 L 176.0 130.0 L 190.0 130.0 L 204.0 130.0 L 210.0 130.0 Q 214.0 90.0 218.0 104.0 Q 222.0 90.0 226.0 130.0 L 232.0 130.0 L 246.0 130.0 L 260.0 130.0 L 274.0 130.0 L 288.0 130.0 L 298.0 130.0 Q 300.0 105.0 302.0 119.0 Q 305.0 105.0 308.0 130.0 L 316.0 130.0 L 330.0 130.0 L 344.0 130.0 L 358.0 130.0 L 372.0 130.0 L 386.0 130.0 L 400.0 130.0 L 414.0 130.0 L 428.0 130.0 L 442.0 130.0 L 456.0 130.0 L 466.0 130.0 Q 468.0 105.0 470.0 119.0 Q 473.0 105.0 476.0 130.0 L 484.0 130.0 L 498.0 130.0 L 512.0 130.0 L 526.0 130.0 L 540.0 130.0 L 546.0 130.0 Q 550.0 90.0 554.0 104.0 Q 558.0 90.0 562.0 130.0 L 568.0 130.0 L 582.0 130.0 L 596.0 130.0 L 606.0 130.0 Q 608.0 105.0 610.0 119.0 Q 613.0 105.0 616.0 130.0 L 624.0 130.0 L 638.0 130.0 L 652.0 130.0 L 666.0 130.0 L 676.0 130.0 Q 678.0 57.0 680.0 71.0 Q 683.0 46.0 686.0 60.0 Q 688.0 30.0 690.0 44.0 Q 692.0 30.0 694.0 130.0 L 704.0 130.0 L 708.0 127.0 Q 711.0 102.0 714.0 116.0 Q 716.0 2.0 718.0 16.0 Q 720.0 2.0 722.0 32.0 Q 725.5 2.0 729.0 16.0 Q 732.5 2.0 736.0 130.0 L 746.0 130.0 Q 748.0 57.0 750.0 71.0 Q 753.0 46.0 756.0 60.0 Q 758.0 30.0 760.0 44.0 Q 762.0 30.0 764.0 130.0 L 778.0 130.0 Q 786.5 31.0 795.0 45.0 L 808.0 47.0 Q 808.0 33.0 808.0 130.0 L 824.0 130.0 L 885.0 130.0 L 885.0 130.0" fill="none" stroke="none"/>
+<path id="mp" d="M 20.0 98.0 Q 27.5 68.0 35.0 82.0 Q 42.5 68.0 50.0 130.0 L 64.0 130.0 L 78.0 130.0 L 92.0 130.0 L 106.0 130.0 L 120.0 130.0 L 130.0 130.0 Q 132.0 105.0 134.0 119.0 Q 137.0 105.0 140.0 130.0 L 148.0 130.0 L 162.0 130.0 L 176.0 130.0 L 190.0 130.0 L 204.0 130.0 L 210.0 130.0 Q 214.0 90.0 218.0 104.0 Q 222.0 90.0 226.0 130.0 L 232.0 130.0 L 242.0 130.0 L 246.0 127.0 Q 249.0 102.0 252.0 116.0 Q 254.0 2.0 256.0 16.0 Q 258.0 2.0 260.0 32.0 Q 263.5 2.0 267.0 16.0 Q 270.5 2.0 274.0 130.0 L 288.0 130.0 L 298.0 130.0 Q 300.0 105.0 302.0 119.0 Q 305.0 105.0 308.0 130.0 L 316.0 130.0 L 330.0 130.0 L 344.0 130.0 L 354.0 130.0 Q 356.0 71.0 358.0 85.0 Q 361.0 60.0 364.0 74.0 Q 366.0 44.0 368.0 58.0 Q 370.0 44.0 372.0 130.0 L 386.0 130.0 L 400.0 130.0 L 410.0 130.0 Q 412.0 85.0 414.0 99.0 Q 417.0 74.0 420.0 88.0 Q 422.0 58.0 424.0 72.0 Q 426.0 58.0 428.0 130.0 L 442.0 130.0 L 456.0 130.0 L 466.0 130.0 Q 468.0 105.0 470.0 119.0 Q 473.0 105.0 476.0 130.0 L 484.0 130.0 L 498.0 130.0 L 508.0 130.0 Q 510.0 29.0 512.0 43.0 Q 515.0 18.0 518.0 32.0 Q 520.0 2.0 522.0 16.0 Q 524.0 2.0 526.0 130.0 L 540.0 130.0 L 546.0 130.0 Q 550.0 90.0 554.0 104.0 Q 558.0 90.0 562.0 130.0 L 568.0 130.0 L 582.0 130.0 L 596.0 130.0 L 606.0 130.0 Q 608.0 105.0 610.0 119.0 Q 613.0 105.0 616.0 130.0 L 624.0 130.0 L 638.0 130.0 L 652.0 130.0 L 666.0 130.0 L 680.0 130.0 L 694.0 130.0 L 708.0 130.0 L 722.0 130.0 L 736.0 130.0 L 750.0 130.0 L 764.0 130.0 L 774.0 130.0 Q 776.0 85.0 778.0 99.0 Q 781.0 74.0 784.0 88.0 Q 791.0 31.0 798.0 45.0 L 808.0 47.0 Q 808.0 33.0 808.0 130.0 L 824.0 130.0 L 885.0 130.0 L 885.0 130.0" fill="none" stroke="none"/>
 <use href="#spr_mario">
   <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.9200; 0.9350; 0.9900; 1" dur="28.0s" repeatCount="indefinite"/>
-  <animateMotion dur="28.0s" repeatCount="indefinite" rotate="0" calcMode="spline" keyTimes="0.0000;0.0116;0.0382;0.0456;0.0530;0.0604;0.0678;0.0752;0.0805;0.0867;0.0933;0.0975;0.1049;0.1123;0.1197;0.1271;0.1303;0.1447;0.1591;0.1622;0.1696;0.1770;0.1844;0.1918;0.1971;0.2033;0.2099;0.2142;0.2216;0.2290;0.2364;0.2438;0.2512;0.2586;0.2660;0.2734;0.2808;0.2882;0.2935;0.2997;0.3063;0.3105;0.3179;0.3253;0.3327;0.3401;0.3433;0.3577;0.3721;0.3752;0.3826;0.3900;0.3953;0.4015;0.4081;0.4124;0.4198;0.4272;0.4346;0.4399;0.4711;0.4778;0.4865;0.5320;0.5373;0.5399;0.5466;0.5995;0.6082;0.6174;0.6778;0.6831;0.7144;0.7210;0.7297;0.7752;0.7826;0.8285;0.8354;0.8793;0.8877;0.9200;1.0000" keySplines="0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0">
+  <animateMotion dur="28.0s" repeatCount="indefinite" rotate="0" calcMode="spline" keyTimes="0.0000;0.0108;0.0356;0.0426;0.0495;0.0564;0.0633;0.0702;0.0751;0.0809;0.0871;0.0910;0.0980;0.1049;0.1118;0.1187;0.1216;0.1351;0.1485;0.1515;0.1564;0.1589;0.1651;0.2145;0.2226;0.2312;0.2876;0.2945;0.2994;0.3052;0.3114;0.3153;0.3223;0.3292;0.3341;0.3564;0.3626;0.3707;0.4063;0.4132;0.4201;0.4251;0.4405;0.4467;0.4548;0.4835;0.4904;0.4974;0.5023;0.5081;0.5142;0.5182;0.5251;0.5300;0.5730;0.5792;0.5874;0.6437;0.6506;0.6535;0.6670;0.6804;0.6833;0.6903;0.6972;0.7021;0.7079;0.7141;0.7180;0.7249;0.7318;0.7387;0.7457;0.7526;0.7595;0.7664;0.7733;0.7802;0.7871;0.7921;0.8075;0.8137;0.8360;0.8410;0.8820;0.8899;0.9200;1.0000" keySplines="0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0;0.25 0.1 0.25 1.0">
     <mpath href="#mp"/>
   </animateMotion>
 </use>
 <text x="10" y="14" font-family="monospace" font-size="10" fill="#f8d820" font-weight="bold">MARIO</text>
-<text x="10" y="25" font-family="monospace" font-size="10" fill="#ffffff">x07 COINS</text>
+<text x="10" y="25" font-family="monospace" font-size="10" fill="#ffffff">x09 COINS</text>
 <text x="446" y="14" font-family="monospace" font-size="10" fill="#f8d820" font-weight="bold">WORLD</text>
 <text x="454" y="25" font-family="monospace" font-size="10" fill="#ffffff">  1-1</text>
 <text x="867" y="14" font-family="monospace" font-size="10" fill="#f8d820" font-weight="bold"> TIME</text>
