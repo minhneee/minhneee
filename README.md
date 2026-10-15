@@ -1,11 +1,11 @@
 <!-- DYNAMIC HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=%E2%AD%90%20NGUY%E1%BB%85N%20NH%E1%BA%ADT%20MINH%20%E2%AD%90&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=%F0%9F%8E%AE%20Full-Stack%20Developer%20%7C%20Creative%20Tech%20Explorer%20%7C%20Gamer&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=%E2%AD%90%20MINN%20%E2%AD%90&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=%F0%9F%8E%AE%20Full-Stack%20Developer%20%7C%20Creative%20Tech%20Explorer%20%7C%20Gamer&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <!-- HIỆU ỨNG TYPING TEXT XOAY CHIỀU -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Nguy%E1%BB%85n+Nh%E1%BA%ADt+Minh;%F0%9F%9A%80+Full-Stack+Software+Developer;%F0%9F%8E%AE+Turning+Coffee+%26+Logic+into+Digital+Magic;%E2%9A%A1+Leveling+Up+Every+Single+Day;%E2%9C%A8+Clean+Code+%E2%80%A2+Creative+UI+%E2%80%A2+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Minn;%F0%9F%9A%80+Full-Stack+Software+Developer;%F0%9F%8E%AE+Turning+Coffee+%26+Logic+into+Digital+Magic;%E2%9A%A1+Leveling+Up+Every+Single+Day;%E2%9C%A8+Clean+Code+%E2%80%A2+Creative+UI+%E2%80%A2+Scalable+Systems" alt="Typing SVG" />
 </h2>
 
 <!-- MARQUEE CHỮ CHẠY RETRO ARCADE -->
@@ -57,7 +57,7 @@ interface Developer {
 }
 
 const minhneee: Developer = {
-  name: "Nguyễn Nhật Minh",
+  name: "Minn",
   alias: "minhneee",
   role: "Full-Stack Software Engineer 🚀",
   mana: "100% (Recharged by Coffee ☕)",
