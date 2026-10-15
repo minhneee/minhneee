@@ -18,10 +18,10 @@
 <!-- SUPER MARIO GAME LEVEL - CONTRIBUTION ARENA -->
 <div align="center">
 
-### 🍄 WORLD 1-1: COMMIT KINGDOM 🍄
+### 🍄 WORLD 1: REAL WORLD 🍄
 
 ```text
-🪙 COINS: x99  •  ⭐ SCORE: 013370  •  🌍 WORLD: 1-1  •  ⏳ TIME: 400  •  ❤️ LIVES: ∞
+🪙 COINS: x99  •  ⭐ SCORE: 366737  •  🌍 WORLD: REAL  •  ⏳ TIME: ∞  •  ❤️ LIVES: 1
 ```
 
 <!-- MARIO RUNNING SPRITE ANIMATION -->
