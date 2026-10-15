@@ -34,7 +34,7 @@
   <img src="mario_contribution.svg" width="100%" alt="Super Mario Interactive Contribution Graph" />
 </picture>
 
-<sub><i>🎮 Mario parkours qua từng commit, ăn đồng xu vàng ở những ngày hoạt động sôi nổi và trượt cột cờ vào lâu đài!</i></sub>
+<sub><i>🎮 Cố gắng vượt qua bao màn chơi, thu thập đủ loại tiền vàng, nhưng đôi khi ngoảnh lại chỉ thấy mình vẫn đứng một mình trong góc phòng tối muộn.</i></sub>
 
 </div>
 
