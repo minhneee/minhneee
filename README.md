@@ -46,18 +46,9 @@
 ## 👤 DEVELOPER PROFILE
 
 ```typescript
-interface Developer {
-  name: string;
-  alias: string;
-  role: string;
-  mana: string;
-  traits: string[];
-  currentMission: string[];
-  motto: string;
-}
 
 const minhneee: Developer = {
-  name: "Minn",
+  name: "Nguyễn Nhật Minh",
   alias: "minhneee",
   role: "Full-Stack Software Engineer 🚀",
   mana: "100% (Recharged by Coffee ☕)",
