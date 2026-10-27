@@ -821,6 +821,7 @@
 <rect x="764" y="134" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="778" y="50" width="10" height="10" rx="2" ry="2" class="empty"/>
 <rect x="778" y="64" width="10" height="10" rx="2" ry="2" class="empty"/>
+<rect x="778" y="78" width="10" height="10" rx="2" ry="2" class="empty"/>
 <!-- Goomba #1 at x=554 -->
 <g transform="translate(554,136.0)">
   <use href="#spr_goomba">
